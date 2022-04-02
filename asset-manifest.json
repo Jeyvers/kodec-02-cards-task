@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Jeyvers/kodec-02-cards-task.git/static/css/main.08e9ad92.css",
-    "main.js": "/Jeyvers/kodec-02-cards-task.git/static/js/main.97e32d3b.js",
-    "static/js/787.d3c9a8b0.chunk.js": "/Jeyvers/kodec-02-cards-task.git/static/js/787.d3c9a8b0.chunk.js",
-    "index.html": "/Jeyvers/kodec-02-cards-task.git/index.html",
-    "main.08e9ad92.css.map": "/Jeyvers/kodec-02-cards-task.git/static/css/main.08e9ad92.css.map",
-    "main.97e32d3b.js.map": "/Jeyvers/kodec-02-cards-task.git/static/js/main.97e32d3b.js.map",
-    "787.d3c9a8b0.chunk.js.map": "/Jeyvers/kodec-02-cards-task.git/static/js/787.d3c9a8b0.chunk.js.map"
+    "main.css": "/Jeyvers/kodec-02-cards-task.github.io/static/css/main.08e9ad92.css",
+    "main.js": "/Jeyvers/kodec-02-cards-task.github.io/static/js/main.6c0987cf.js",
+    "static/js/787.d3c9a8b0.chunk.js": "/Jeyvers/kodec-02-cards-task.github.io/static/js/787.d3c9a8b0.chunk.js",
+    "index.html": "/Jeyvers/kodec-02-cards-task.github.io/index.html",
+    "main.08e9ad92.css.map": "/Jeyvers/kodec-02-cards-task.github.io/static/css/main.08e9ad92.css.map",
+    "main.6c0987cf.js.map": "/Jeyvers/kodec-02-cards-task.github.io/static/js/main.6c0987cf.js.map",
+    "787.d3c9a8b0.chunk.js.map": "/Jeyvers/kodec-02-cards-task.github.io/static/js/787.d3c9a8b0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.08e9ad92.css",
-    "static/js/main.97e32d3b.js"
+    "static/js/main.6c0987cf.js"
   ]
 }
